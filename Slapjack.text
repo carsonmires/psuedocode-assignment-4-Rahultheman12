@@ -8,14 +8,14 @@ Slap Jack Rules:
  Gameplay:
 6. Starting with the player to the left to the dealer(person who distributed cards) will start to place one card in the pile face up.
 7. Then the next player will place one card in the pile face up and so on.
-8. If the card is a jack, the first person to slap the card  gets the whole pile of cards and the dealer reshuffles the cards and we restart. 
+8. If the card is a jack, the first person to slap the card  gets the whole pile of cards. //The game doesn't restart, the next person plays a card and the game continues.
 9. If the card placed in the pile is a jack but no one slaps the card, the players just place the next card in the pile
 10. You repeat steps 6,7 and if the card is a jack again, also repeat step 8. If step 9 also applies, just repeat steps 6 and 7. 
 11. If one of the players slaps a card in the pile that is not a jack, the other player must give that card he slaped to another player since the the player got a "penalty card" for slapping a card that is not a jack.
 12. If you have the whole deck:
      then you win the game:
     Else if another person has the whole deck:
-     then the player wins the game
+     then the player with the whole deck wins the game
     Else:
      While no one has the whole deck:
       Then you play another round
